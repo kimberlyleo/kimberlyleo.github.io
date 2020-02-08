@@ -1,5 +1,5 @@
 {
-  "homepage": "http://kimberlyleo.github.io/portfolio",
+  "homepage": "http://kimberlyleo.github.io",
   "name": "resume",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,7 @@
     "react-scripts": "2.1.1"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
