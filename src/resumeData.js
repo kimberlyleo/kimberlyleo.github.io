@@ -1,5 +1,4 @@
 let resumeData = {
-  /*  "imagebaseurl":"https://rbhatia46.github.io/", */
     "greet": "HI, I'M KIMBERLY",
     "name": "Kimberly Leonard",
     "role": "FULL STACK WEB DEVELOPER",
@@ -22,7 +21,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am currently studying at LEARN Academy, an intensive Full-Stack bootcamp where I work with React.js & Ruby on Rails with Postgresql. During this time I have been learning TDD and getting addicted to the wizardry that is coding. I am switching to dev from being a professional Brewer because I am passionate about learning new technologies and being consistently challenged. Coding gives us incredible power to communicate effectively with the world! I am currently diving deeper into creating mobile apps with React Native; next up: D3 and Python. I believe that with the combination of hardwork, dynamic collaboration, and code anything becomes possible.",
+    "aboutme":"I am currently studying at LEARN Academy, an intensive Full-Stack bootcamp where I work with React.js & Ruby on Rails with Postgresql. I have been learning TDD and getting addicted to the wizardry that is coding. I am switching to dev from being a professional Brewer because I am passionate about being consistently challenged and learning new technologies. Coding gives us incredible power to communicate with the world and build great things. I am currently diving deeper into creating mobile apps with React Native; next up: D3 and Python. I believe that with the combination of hardwork, collaboration, and code anything becomes possible.",
     "address":"San Diego",
     "email":"kimeleonard@gmail.com",
     "education":[
@@ -31,7 +30,7 @@ let resumeData = {
         "specialization":" Full-Stack Web Development",
         "MonthOfPassing":"Mar",
         "YearOfPassing":"2020",
-        "Achievements":"Ground-up API development, worked in teams to develop an interactive full stack fermentation-focused calendar/to-do app. The app was a creative coding solution to solve the issues of organization and reproducibility when juggling many fermentation projects. Developed web dev skills using React with Ruby on Rails."
+        "Achievements":"Ground-up API development, worked in teams to develop an interactive  and responsive React on Rails fermentation-focused calendar/to-do app. The app was a creative coding solution to solve issues of organization and reproducibility when juggling fermentation projects."
       },
       {
         "UniversityName":"UC DAVIS",
@@ -46,7 +45,7 @@ let resumeData = {
         "specialization":"Head Brewer",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2019",
-        "Achievements":"Created budgets, increased efficiency and profitability, and wrote SOP's to streamline processes"
+        "Achievements":"Created budgets, increased efficiency and profitability, trained employees, wrote client outreach materials, and wrote SOP's to streamline processes"
       }
     ],
 

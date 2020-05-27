@@ -29,7 +29,7 @@ export default class About extends Component {
                     </div>
 
                     <div><a href={"mailto:kimeleonard@gmail.com"}>{resumeData.email}</a></div>
-                    <div><a href="https://www.linkedin.com/kimberly-leo" target="_blank">linkedin.com/kimberlyleo</a></div>
+                    <div><a href="https://www.linkedin.com/kimberly-leo" target="_blank" rel="noopener noreferrer">linkedin.com/kimberlyleo</a></div>
                    </p>
 
                   </div>
