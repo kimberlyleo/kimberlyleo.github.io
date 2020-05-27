@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am currently studying at LEARN Academy, an intensive Full-Stack bootcamp where I work with React.js & Ruby on Rails with Postgresql. I have been learning TDD and getting addicted to the wizardry that is coding. I am switching to dev from being a professional Brewer because I am passionate about being consistently challenged and learning new technologies. Coding gives us incredible power to communicate with the world and build great things. I am currently diving deeper into creating mobile apps with React Native; next up: D3 and Python. I believe that with the combination of hardwork, collaboration, and code anything becomes possible.",
+    "aboutme":"I am Brewer turned Web Developer. In both careers, my passion for creating things that make people happy has continued to grow. I recently completed a 3 month internship at Valtech. It was the best job I ever had (really) because it consistently challenged me and allowed me to learn new techologies and languages. It made me very excited to continue my journey as a Software Engineer/Code Wizard. I am excited grow my skills and build great things that bring people joy. I am currently studying (Python, UX, & Agile) and enjoying building a mobile app with Swift; next up: Android/Kotlin and Machine Learning.",
     "address":"San Diego",
     "email":"kimeleonard@gmail.com",
     "education":[
@@ -30,7 +30,7 @@ let resumeData = {
         "specialization":" Full-Stack Web Development",
         "MonthOfPassing":"Mar",
         "YearOfPassing":"2020",
-        "Achievements":"Ground-up API development, worked in teams to develop an interactive  and responsive React on Rails fermentation-focused calendar/to-do app. The app was a creative coding solution to solve issues of organization and reproducibility when juggling fermentation projects."
+        "Achievements":"Ground-up API development. Worked mostly with React.js & Ruby on Rails with Postgresql. Developed an interactive and responsive React on Rails fermentation-focused calendar/to-do app in a team. The app was a creative coding solution to solve issues of organization and reproducibility when juggling fermentation projects."
       },
       {
         "UniversityName":"UC DAVIS",
@@ -77,9 +77,9 @@ let resumeData = {
         "imgurl":"images/madlib.png"
       },
       {
-        "name":"ferm-cal",
-        "description":"IN PROGRESS: Full Stack; A fermentation-specific task/note app with OAuth",
-        "imgurl":"images/ferm-cal.png"
+        "name":"ferm-cal-1",
+        "description":"In Prog: React on Rails; A fermentation-specific task/note app with OAuth",
+        "imgurl":"images/fermcal.png"
       }
     ],
     "testimonials":[
