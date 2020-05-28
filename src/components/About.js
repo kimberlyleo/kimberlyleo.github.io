@@ -22,12 +22,9 @@ export default class About extends Component {
                   <div className="columns contact-details">
                   <h2>CONTACT ME</h2>
                   <p className="address">
-       						<span>{resumeData.name}</span>
-
-       						   <div>
-                     {resumeData.address}
-                    </div>
-
+       						<div>
+                           {resumeData.address}
+                        </div>
                     <div><a href={"mailto:kimeleonard@gmail.com"}>{resumeData.email}</a></div>
                     <div><a href="https://www.linkedin.com/kimberly-leo" target="_blank" rel="noopener noreferrer">linkedin.com/kimberlyleo</a></div>
                    </p>

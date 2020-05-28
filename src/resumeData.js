@@ -21,7 +21,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am Brewer turned Web Developer. In both careers, my passion for creating things that make people happy has continued to grow. I recently completed a 3 month internship at Valtech. It was the best job I ever had (really) because it consistently challenged me and allowed me to learn new techologies and languages. It made me very excited to continue my journey as a Software Engineer/Code Wizard. I am excited grow my skills and build great things that bring people joy. I am currently studying (Python, UX, & Agile) and enjoying building a mobile app with Swift; next up: Android/Kotlin and Machine Learning.",
+    "aboutme":"I am a Brewer turned Web Developer. In both careers, my passion for creating things that make people happy has continued to grow. I recently completed a 3 month internship at Valtech. It was the best job I ever had (really) because it consistently challenged me and allowed me to learn new techologies and languages. It made me very excited to continue my journey as a Software Engineer/Code Wizard. I am excited grow my skills and build great things that bring people joy. I am currently studying (Python, UX, & Agile) and enjoying building a mobile app with Swift; next up: Android/Kotlin and Machine Learning.",
     "address":"San Diego",
     "email":"kimeleonard@gmail.com",
     "education":[
