@@ -21,31 +21,38 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am a Brewer turned Web Developer. In both careers, my passion for creating things that make people happy has continued to grow. I recently completed a 3 month internship at Valtech. It was the best job I ever had (really) because it consistently challenged me and allowed me to learn new techologies and languages. It made me very excited to continue my journey as a Software Engineer/Code Wizard. I am excited grow my skills and build great things that bring people joy. I am currently studying (Python, UX, & Agile) and enjoying building a mobile app with Swift; next up: Android/Kotlin and Machine Learning.",
+    "aboutme":"I am a Brewer turned Web Developer! In both careers, my passion for creating things that make people happy has continued to grow. I recently completed a 3 month internship at Valtech & it made me very excited to continue my journey as a Software Engineer. I am currently building a mobile app with Swift and studying Python, Machine Learning, UX, & Agile. When I'm not coding, I can be found rollerskating, dancing, or drawing.",
     "address":"San Diego",
     "email":"kimeleonard@gmail.com",
     "education":[
       {
-        "UniversityName":"LEARN ACADEMY",
+        "UniversityName":"LEARN Academy",
         "specialization":" Full-Stack Web Development",
         "MonthOfPassing":"Mar",
         "YearOfPassing":"2020",
-        "Achievements":"Ground-up API development. Worked mostly with React.js & Ruby on Rails with Postgresql. Developed an interactive and responsive React on Rails fermentation-focused calendar/to-do app in a team. The app was a creative coding solution to solve issues of organization and reproducibility when juggling fermentation projects."
+        "Achievements":"Worked with React.js & Ruby on Rails with Postgresql. Ground-up API development and third-party API integration."
       },
       {
-        "UniversityName":"UC DAVIS",
-        "specialization":"Food Science & Technology",
+        "UniversityName":"UC Davis",
+        "specialization":"Bachelor of Science: Food Science & Technology",
         "MonthOfPassing":"Jun",
         "YearOfPassing":"2015"
       }
     ],
     "work":[
       {
+        "CompanyName":"Valtech",
+        "specialization":"Software Engineering Intern",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2020",
+        "Achievements":"Worked with JS, Swift and Xcode, Express, Node, and Firebase SDK's. Learned about UX driven developmen, Agile workflow and fulfilling client objectives."
+      },
+      {
         "CompanyName":"Smoke Mountain Brewery",
         "specialization":"Head Brewer",
         "MonthOfLeaving":"Sep",
         "YearOfLeaving":"2019",
-        "Achievements":"Created budgets, increased efficiency and profitability, trained employees, wrote client outreach materials, and wrote SOP's to streamline processes"
+        "Achievements":"Created budgets, increased efficiency and profitability, trained employees, wrote client outreach materials, developed and implemented a workplace safety program, and wrote SOP's to streamline processes"
       }
     ],
 
